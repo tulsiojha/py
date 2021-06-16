@@ -2,6 +2,7 @@
 application:
   name: "py"
   project: "check"
+  publicly_accessible: true
   organization: "QoveryCommunity"
 routers:
 - name: "main-py"
