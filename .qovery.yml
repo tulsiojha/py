@@ -3,9 +3,8 @@ application:
   name: "py"
   project: "check"
   publicly_accessible: true
-  organization: "QoveryCommunity"
 routers:
-- name: "main-py-root"
+- name: "main-py-roott"
   custom_domains:
   - branch: main
     domain: bojha.com.np
