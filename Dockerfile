@@ -1,5 +1,1 @@
-FROM python:latest
-
-COPY main.py /
-
-CMD [ "python", "./main.py" ]
+FROM python:3
